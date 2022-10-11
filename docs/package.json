@@ -22,7 +22,7 @@
   "license": "ISC",
   "dependencies": {
     "entities": "^2.0.3",
-    "vuepress-theme-cosmos": "^1.0.172"
+    "vuepress-theme-cosmos": "^1.0.183"
   },
   "devDependencies": {
     "watchpack": "^1.7.2"
